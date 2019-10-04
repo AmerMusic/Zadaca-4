@@ -1,0 +1,187 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  font-family: helvetica;
+  box-sizing: border-box;
+  width: 960px;
+  margin: 0 auto;
+  background-color: darkred;
+}
+.page{
+  width: 960px;
+}
+
+.header{
+  position: relative;
+  width: 200px;
+  top: 20px;
+  margin-bottom: 20px;
+
+}
+.header2{
+  background-color: gray;
+}
+
+.button1{
+  color: white;
+  width: 50px;
+  background-color: gray;
+  border: 0;
+  padding: 10px 10px;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+.button2{
+  color: white;
+  width: 70px;
+  background-color: gray;
+  border: 0;
+  padding: 15px 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.button3{
+  width:  100px;
+  color: White;
+  background-color: gray;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-top: 0px;
+  border-bottom: 0px;
+  padding: 15px 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.uvod{
+  background-color: olivedrab;
+  height: 300px;
+}
+
+.slika1{
+  width: 180px;
+  margin-left: 50px;
+  margin-top: 100px;
+  background-color: olivedrab;
+}
+.tekst{
+  color: white;
+  background-color: olivedrab;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+.nas1{
+  background-color: olivedrab;
+  font-size: 18px;
+}
+.tek1{
+  width:  600px;
+  margin-top: 120px;
+  background-color: olivedrab;
+  font-size: 15px;
+}
+
+.body{
+  height: 600px;
+  margin-top: 20px;
+}
+
+.lijevo{
+  position: relative;
+  margin-left: 1px;
+  background-color: cadetblue;
+  width: 300px;
+  height: 600px;
+  margin-bottom: 10px;
+}
+
+.button4{
+ color: white;
+ background-color: cadetblue;
+ border-top: 0px;
+ border-bottom: 1px solid white;
+ border-left: 0;
+ border-right: 0;
+ text-align: left;
+ font-size: 14px;
+ position: relative;
+ left: 30px;
+ top: 20px;
+ width: 200px;
+ padding-bottom: 5px;
+ padding-left: 7px;
+}
+.button5{
+  color: white;
+  background-color: cadetblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-top: 10px;
+
+}
+.button6{
+  color: white;
+  background-color: cadetblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-top: 10px;
+}
+.button7{
+  color: white;
+  background-color: cadetblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-top: 10px;
+}
+
+.lower_part {
+  height: 600px;
+  display: flex;
+  justify-content: center;
+}
+.desno{
+  width: 670px;
+  background-color: Bisque ;
+}
+.nas2{
+  color: green;
+  background-color: Bisque ;
+}
+.tekst2{
+  margin-top: 15px;
+  width: 620px;
+  margin-top: 15px;
+  background-color:Bisque ;
+}
